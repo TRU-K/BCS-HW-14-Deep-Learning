@@ -10,6 +10,7 @@ Contained within the jupyter notebook's of this repo, is an LSTM RNN model that 
 ### Which model tracks the actual values better over time?
 ![Close](https://user-images.githubusercontent.com/99452833/176668982-ef059b47-86cd-4add-85bd-e862dc52a8b2.png)
 ![FNG](https://user-images.githubusercontent.com/99452833/176669107-f9eac620-945a-4d8d-9165-29cf15ea90b7.png)
+
 As can be seen above the model utilising the previos close prices is much more effective at tracking actual values over a period of time.
 
 ## Model Analysis
